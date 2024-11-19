@@ -32,10 +32,6 @@ def recommend_by_district_taluka(district, taluka, num_recommendations=5):
     return recommendations[:num_recommendations]
 
 
-@app.route("/api", methods=['GET'])
-def hello():
-    return jsonify({"message":"Server is Running"})
-
 @app.route('/recommend', methods=['POST'])
 def recommend():
     try:
