@@ -1,0 +1,1177 @@
+District,Taluka,Region,Equipment,Rs/hr,Rs/day
+Nanded,Kandhar,Marathwada,tractor,330,2300
+Amravati,Chikhaldara,Vidharbha,Tractor,300,2250
+Ratnagiri,Dapoli,Konkan,plough,142,655
+Chandrapur,Rajura,Vidharbha,pickaxe,18,144
+Dhule,Shirpur,Khandesh,sprayer,43,127
+Ratnagiri,Guhagar,Konkan,pickaxe,25,88
+Jalgaon,Pachora,Khandesh,sprayer,35,130
+Pune,Baramati,WM,sickel,32,110
+Satara,Phaltan,WM,tractor trolley,293.9,2248.28
+Ahmednagar,Shrigonda,Khandesh,hoe,54,256
+Ahmednagar,Pathardi,Khandesh,hoe,55,258
+Washim,Manora,Vidharbha,tractor,230,1840
+Raigad,Mahad,Konkan,tractor,280,2090
+Nagpur,Narkhed,Vidharbha,hoe,38,304
+Raigad,Mangaon,Konkan,pickaxe,16,56
+Kolhapur,Kagal,WM,sprayer,69,208
+Osmanabad,Bhoom,Marathwada,tractor trolley,310,2580
+Chandrapur,Sindhewahi,Vidharbha,tractor,240,1920
+Satara,Phaltan,WM,sprayer,67.24,205.94
+Amravati,Chikhaldara,Vidharbha,Sprayer,47,375
+Yavatmal,Maregaon,Vidharbha,plough,102,765
+Buldhana,Malkapur,Vidharbha,tractor,280,1960
+Hingoli,Hingoli,Marathwada,tractor,470,3500
+Buldhana,Shegaon,Vidharbha,pickaxe,26,190
+Gondia,Goregaon,Vidharbha,tractor,262,2096
+Pune,Shirur,WM,hoe,55,260
+Latur,Latur,Marathwada,tractor,370,2700
+Chandrapur,Bramhpuri,Vidharbha,tractor,230,1840
+Amravati,Warud,Vidharbha,Sprayer,50,400
+Amravati,Chandur,Vidharbha,Plough,135,1010
+Sangli,Shirala,WM,tractor,440,3425
+Raigad,Mahad,Konkan,hoe,28,155
+Chandrapur,Sindhewahi,Vidharbha,sickel,13,104
+Akola,Patur,Vidharbha,Sprayer,49,390
+Hingoli,Basmath,Marathwada,tractor trolley,295,2450
+Parbhani,Purna,Marathwada,tractor trolley,295,2450
+Buldhana,Chikhli,Vidharbha,plough,125,960
+Sindhudurg,Sawantwadi,Konkan,sprayer,42,130
+Sindhudurg,Sawantwadi,Konkan,tractor,310,2300
+Yavatmal,Yavatmal,Vidharbha,sprayer,33,264
+Akola,Akot,Vidharbha,Tractor,308,2280
+Beed,Parali,Marathwada,sprayer,45,145
+Solapur,Karmala,WM,tractor trolley,292,2200
+Kolhapur,Shahuwadi,WM,sprayer,70,213
+Gondia,Goregaon,Vidharbha,hoe,28,224
+Satara,Satara,WM,sickel,28.54,102.03
+Sangli,Miraj,WM,plough,187.38,889
+Satara,Wai,WM,sickel,28.73,102.73
+Washim,Malegaon,Vidharbha,tractor trolley,150,1200
+Chandrapur,Rajura,Vidharbha,tractor trolley,125,1000
+Yavatmal,Dharwa,Vidharbha,hoe,30,220
+Nanded,Naigaon,Marathwada,sprayer,46,145
+Nandurbar,Akrani,Khandesh,pickaxe,14,60
+Jalgaon,Jalgaon,Khandesh,hoe,32,155
+Nashik,Yeola,Marathwada,pickaxe,27,94
+Pune,Junnar,WM,pickaxe,42,155
+Nashik,Yeola,Marathwada,plough,135,630
+Sambhajinagar,Kannad,Marathwada,pickaxe,26,92
+Sangli,Tasgaon,WM,sickel,28.25,102
+Nashik,Yeola,Marathwada,tractor trolley,219,1625
+Pune,Maval,WM,sprayer,71,214
+Nanded,Loha,Marathwada,hoe,35,190
+Amravati,Achalpur,Vidharbha,Plough,130,975
+Nashik,Malegaon,Marathwada,hoe,35,194
+Nandurbar,Nawapur,Khandesh,hoe,20,80
+Pune,Baramati,WM,hoe,55,260
+Chandrapur,Korpana,Vidharbha,pickaxe,16,128
+Pune,Ambegoan,WM,tractor,495,5600
+Mumbai Suburban,Mumbai Suburban,Konkan,sickel,35.2,128
+Beed,Patoda,Marathwada,sprayer,48,150
+Satara,Wai,WM,pickaxe,36.98,133.25
+Solapur,Mangalvedha,WM,tractor trolley,288,2170
+Solapur,Barshi,WM,sprayer,65,195
+Wardha,Hinganghat,Vidharbha,tractor,280,1960
+Nagpur,Ramtek,Vidharbha,tractor trolley,220,1760
+Hingoli,Sengaon,Marathwada,tractor,460,3400
+Kolhapur,Kagal,WM,plough,194,926
+Jalna,Bhokardhan,Marathwada,sprayer,42,135
+Bhandara,Bhandara,Vidharbha,sprayer,39,312
+Jalna,Badnapur,Marathwada,sprayer,40,128
+Sindhudurg,Kudal,Konkan,tractor trolley,190,1410
+Buldhana,Buldhana,Vidharbha,sprayer,72,500
+Raigad,Mangaon,Konkan,tractor trolley,125,940
+Nagpur,Hingna,Vidharbha,tractor,360,2880
+Pune,Ambegoan,WM,pickaxe,44,157
+Akola,Akola,Vidharbha,Hoe,36,290
+Gadchiroli,Chamorshi,Vidharbha,pickaxe,,
+Pune,Haveli,WM,sickel,32,107
+Ahmednagar,Sangamner,Khandesh,tractor trolley,330,2630
+Solapur,Karmala,WM,pickaxe,35.5,128
+Ratnagiri,Khed,Konkan,plough,131,600
+Ahmednagar,Sangamner,Khandesh,plough,215,1080
+Jalna,Partur,Marathwada,tractor trolley,165,1240
+Buldhana,Shegaon,Vidharbha,tractor trolley,185,1350
+Jalna,Badnapur,Marathwada,sickel,18,63
+Hingoli,Hingoli,Marathwada,sprayer,70,214
+Raigad,Alibaug,Konkan,pickaxe,25,88
+Amravati,Achalpur,Vidharbha,Hoe,32,260
+Satara,Satara,WM,tractor trolley,290.26,2217.57
+Dhule,Sindhkheda,Khandesh,tractor,247,1820
+Nandurbar,Nawapur,Khandesh,pickaxe,14,60
+Latur,Ausa,Marathwada,tractor trolley,220,1600
+Nanded,Kandhar,Marathwada,hoe,34,185
+Dhule,Sindhkheda,Khandesh,hoe,28,133
+Sangli,Tasgaon,WM,sprayer,66.42,204.5
+Solapur,Pandharpur,WM,sprayer,66,200
+Nanded,Dharmabad,Marathwada,pickaxe,21,75
+Palghar,Palghar,Khandesh,sprayer,,
+Pune,Khed,WM,sprayer,70,212
+Akola,Telhara,Vidharbha,Pickaxe,30,240
+Gadchiroli,Dhanora,Vidharbha,tractor,,
+Nanded,Dharmabad,Marathwada,plough,110,500
+Ratnagiri,Chiplun,Konkan,sickel,18,66
+Kolhapur,Panhala,WM,sprayer,71,218
+Sindhudurg,Kankavli,Konkan,plough,118,550
+Hingoli,Basmath,Marathwada,hoe,52,250
+Satara,Phaltan,WM,sickel,28.91,103.41
+Nagpur,Katol,Vidharbha,tractor trolley,190,1520
+Dhule,Shirpur,Khandesh,hoe,32,154
+Yavatmal,Dharwa,Vidharbha,sprayer,35,280
+Wardha,Wardha,Vidharbha,pickaxe,26,180
+Sambhajinagar,Paithan,Marathwada,tractor,344,2565
+Sangli,Miraj,WM,sickel,28.55,102.75
+Hingoli,Aundha,Marathwada,pickaxe,41,153
+Ahmednagar,Kopargaon,Khandesh,pickaxe,44,157
+Jalgaon,Bhusawal,Khandesh,hoe,29,155
+Sambhajinagar,Kannad,Marathwada,tractor trolley,213,1575
+Satara,Phaltan,WM,pickaxe,37.27,133.87
+Yavatmal,Umarkhed,Vidharbha,sickel,12,100
+Nanded,Nanded,Marathwada,hoe,37,200
+Jalna,Bhokardhan,Marathwada,tractor,330,2400
+Gondia,Gondia,Vidharbha,pickaxe,22,176
+Washim,Malegaon,Vidharbha,plough,110,880
+Buldhana,Malkapur,Vidharbha,sprayer,72,540
+Latur,Chakur,Marathwada,plough,115,520
+Sambhajinagar,Sillod,Marathwada,pickaxe,27,95
+Nashik,Igatpuri,Marathwada,hoe,35,194
+Sambhajinagar,Sambhajinagar,Marathwada,plough,142,660
+Bhandara,Lakhandur,Vidharbha,hoe,30,240
+Sangli,Shirala,WM,hoe,49.3,256.71
+Buldhana,Buldhana,Vidharbha,hoe,52,360
+Jalgaon,Jalgaon,Khandesh,tractor trolley,160,1550
+Nandurbar,Akrani,Khandesh,tractor,175,840
+Nashik,Trimbak,Marathwada,pickaxe,27,94
+Osmanabad,Paranda,Marathwada,hoe,52,250
+Washim,Manora,Vidharbha,sickel,12,96
+Gondia,Goregaon,Vidharbha,sickel,14,112
+Nagpur,Ramtek,Vidharbha,sickel,24,192
+Chandrapur,Chandrapur,Vidharbha,sprayer,35,280
+Latur,Latur,Marathwada,sickel,24,88
+Sangli,Jat,WM,sickel,28.45,102.5
+Ratnagiri,Chiplun,Konkan,pickaxe,23,82
+Palghar,Vikramgad,Khandesh,pickaxe,,
+Gondia,Goregaon,Vidharbha,sprayer,36,288
+Nagpur,Narkhed,Vidharbha,plough,140,1120
+Gondia,Salekasa,Vidharbha,sprayer,39,312
+Palghar,Wada,Khandesh,plough,,
+Yavatmal,Kalamb,Vidharbha,sprayer,31,235
+Solapur,Karmala,WM,plough,184,850
+Parbhani,Sonpeth,Marathwada,plough,185,990
+Nanded,Kandhar,Marathwada,sprayer,43,130
+Bhandara,Pauni,Vidharbha,plough,112,896
+Ahmednagar,Shrigonda,Khandesh,sickel,31,106
+Latur,Ausa,Marathwada,pickaxe,26,90
+Solapur,Barshi,WM,sickel,27.2,98
+Jalgaon,Amalner,Khandesh,sickel,16,65
+Sambhajinagar,Sambhajinagar,Marathwada,pickaxe,28,98
+Jalgaon,Pachora,Khandesh,plough,110,620
+Akola,Akola,Vidharbha,Sickel,20,160
+Buldhana,Lonar,Vidharbha,sprayer,72,560
+Sangli,Tasgaon,WM,pickaxe,36.42,132.05
+Chandrapur,Bramhpuri,Vidharbha,hoe,22,176
+Nagpur,Ramtek,Vidharbha,tractor,370,2960
+Latur,Renapur,Marathwada,hoe,38,205
+Chandrapur,Rajura,Vidharbha,sprayer,30,240
+Bhandara,Pauni,Vidharbha,sickel,15,120
+Buldhana,Lonar,Vidharbha,pickaxe,26,210
+Raigad,Mahad,Konkan,plough,108,500
+Nagpur,Ramtek,Vidharbha,sprayer,55,440
+Parbhani,Purna,Marathwada,sickel,28,95
+Osmanabad,Tuljapur,Marathwada,sprayer,70,214
+Yavatmal,Dharwa,Vidharbha,sickel,15,110
+Palghar,Wada,Khandesh,tractor,,
+Amravati,Morshi,Vidharbha,Hoe,33,260
+Chandrapur,Korpana,Vidharbha,sickel,11,88
+Beed,Parali,Marathwada,hoe,34,190
+Yavatmal,Kalamb,Vidharbha,sickel,12,90
+Jalgaon,Jalgaon,Khandesh,sickel,17,65
+Palghar,Wada,Khandesh,hoe,,
+Jalna,Partur,Marathwada,tractor,290,2050
+Osmanabad,Umarga,Marathwada,pickaxe,41,153
+Nanded,Naigaon,Marathwada,tractor,350,2500
+Solapur,Barshi,WM,tractor,453,3370
+Pune,Junnar,WM,sickel,32,108
+Washim,Karanja,Vidharbha,plough,90,720
+Washim,Washim,Vidharbha,plough,120,960
+Beed,Ashti,Marathwada,sprayer,52,160
+Nagpur,Nagpur,Vidharbha,tractor trolley,200,1600
+Wardha,Hinganghat,Vidharbha,sickel,32,230
+Bhandara,Tumsa,Vidharbha,plough,113,904
+Buldhana,Malkapur,Vidharbha,tractor trolley,185,1400
+Latur,Chakur,Marathwada,tractor,330,2300
+Nandurbar,Akrani,Khandesh,sprayer,28,105
+Washim,Malegaon,Vidharbha,hoe,30,240
+Nashik,Sinnar,Marathwada,hoe,35,194
+Jalgaon,Bhusawal,Khandesh,pickaxe,22,100
+Jalna,Mantha,Marathwada,pickaxe,21,74
+Solapur,Akkalkot,WM,sprayer,63,185
+Mumbai Suburban,Mumbai Suburban,Konkan,plough,235,1100
+Jalna,Badnapur,Marathwada,tractor,310,2200
+Raigad,Alibaug,Konkan,hoe,33,179
+Ratnagiri,Guhagar,Konkan,tractor,333,2470
+Sambhajinagar,Sillod,Marathwada,hoe,35,195
+Sambhajinagar,Kannad,Marathwada,plough,130,605
+Nandurbar,Shahada,Khandesh,sprayer,30,110
+Latur,Ausa,Marathwada,sickel,22,80
+Yavatmal,Kalamb,Vidharbha,tractor trolley,135,1020
+Nashik,Igatpuri,Marathwada,sickel,21,76
+Pune,Bhor,WM,sickel,31,106
+Dhule,Sakri,Khandesh,pickaxe,25,88
+Satara,Karad,WM,plough,186.57,886.71
+Jalna,Jafrabad,Marathwada,sickel,18,64
+Hingoli,Aundha,Marathwada,plough,200,1050
+Pune,Indapur,WM,sprayer,74,222
+Yavatmal,Yavatmal,Vidharbha,tractor,231,1732
+Nandurbar,Shahada,Khandesh,tractor,190,960
+Palghar,Talasari,Khandesh,tractor trolley,,
+Nandurbar,Nandurbar,Khandesh,hoe,20,80
+Palghar,Wada,Khandesh,tractor trolley,,
+Dhule,Sakri,Khandesh,sprayer,39,118
+Chandrapur,Bramhpuri,Vidharbha,plough,90,720
+Yavatmal,Dharwa,Vidharbha,tractor trolley,145,1090
+Ahmednagar,Sangamner,Khandesh,sprayer,75,220
+Raigad,Khalapur,Konkan,sprayer,55,170
+Nandurbar,Taloda,Khandesh,tractor trolley,100,800
+Beed,Shirur,Marathwada,tractor trolley,230,1700
+Parbhani,Parbhani,Marathwada,hoe,52,250
+Amravati,Chikhaldara,Vidharbha,Hoe,34,275
+Ahmednagar,Pathardi,Khandesh,sickel,32,107
+Akola,Akot,Vidharbha,Sickel,22,175
+Yavatmal,Dharwa,Vidharbha,plough,110,820
+Amravati,Morshi,Vidharbha,Tractor Trolley,180,1350
+Washim,Resod,Vidharbha,plough,100,800
+Ratnagiri,Chiplun,Konkan,tractor,310,2300
+Palghar,Palghar,Khandesh,hoe,,
+Nashik,Igatpuri,Marathwada,tractor trolley,219,1625
+Sindhudurg,Sawantwadi,Konkan,hoe,31,169
+Nagpur,Nagpur,Vidharbha,sickel,22,176
+Buldhana,Chikhli,Vidharbha,pickaxe,26,220
+Beed,Parali,Marathwada,tractor,325,2400
+Mumbai Suburban,Mumbai Suburban,Konkan,tractor,597,4440
+Bhandara,Mohadi,Vidharbha,hoe,29,232
+Nanded,Dharmabad,Marathwada,tractor,320,2200
+Gadchiroli,Chamorshi,Vidharbha,hoe,,
+Chandrapur,Sindhewahi,Vidharbha,tractor trolley,131,1048
+Pune,Shirur,WM,plough,210,1075
+Kolhapur,Radhanagari,WM,hoe,50.5,275
+Nanded,Nanded,Marathwada,sickel,22,80
+Mumbai Suburban,Mumbai Suburban,Konkan,hoe,61,330
+Hingoli,Basmath,Marathwada,plough,196,1010
+Akola,Balapur,Vidharbha,Tractor Trolley,185,1425
+Jalna,Mantha,Marathwada,tractor trolley,175,1280
+Chandrapur,Bramhpuri,Vidharbha,sickel,10,80
+Dhule,Shirpur,Khandesh,sickel,18,62
+Nanded,Naigaon,Marathwada,hoe,36,195
+Nagpur,Narkhed,Vidharbha,pickaxe,27,216
+Ratnagiri,Chiplun,Konkan,tractor trolley,190,1410
+Hingoli,Basmath,Marathwada,pickaxe,42,145
+Wardha,Arvi,Vidharbha,tractor,280,1960
+Jalna,Bhokardhan,Marathwada,pickaxe,24,85
+Nagpur,Katol,Vidharbha,hoe,39,312
+Nandurbar,Taloda,Khandesh,hoe,21,85
+Beed,Ashti,Marathwada,hoe,38,210
+Jalna,Badnapur,Marathwada,hoe,29,165
+Nagpur,Hingna,Vidharbha,plough,155,1240
+Sindhudurg,Kankavli,Konkan,sprayer,42,130
+Raigad,Alibaug,Konkan,sickel,19,70
+Washim,Resod,Vidharbha,tractor,250,2000
+Ratnagiri,Chiplun,Konkan,hoe,31,169
+Jalgaon,Amalner,Khandesh,pickaxe,23,100
+Buldhana,Shegaon,Vidharbha,hoe,52,370
+Latur,Latur,Marathwada,sprayer,52,160
+Sambhajinagar,Paithan,Marathwada,tractor trolley,217,1600
+Washim,Malegaon,Vidharbha,tractor,260,2080
+Gadchiroli,Chamorshi,Vidharbha,tractor,,
+Gondia,Goregaon,Vidharbha,plough,106,848
+Nandurbar,Nandurbar,Khandesh,tractor trolley,95,720
+Ratnagiri,Dapoli,Konkan,sickel,22,82
+Nanded,Dharmabad,Marathwada,tractor trolley,190,1350
+Gondia,Salekasa,Vidharbha,pickaxe,21,168
+Akola,Balapur,Vidharbha,Pickaxe,27,215
+Sindhudurg,Kudal,Konkan,hoe,31,169
+Ahmednagar,Shrigonda,Khandesh,plough,205,1065
+Raigad,Pen,Konkan,tractor,383,2850
+Solapur,Akkalkot,WM,hoe,46.5,245
+Wardha,Wardha,Vidharbha,hoe,52,360
+Hingoli,Sengaon,Marathwada,hoe,52,250
+Amravati,Warud,Vidharbha,Tractor,310,2325
+Satara,Karad,WM,sickel,28.62,102.39
+Nagpur,Ramtek,Vidharbha,hoe,42,336
+Solapur,Barshi,WM,plough,185,860
+Palghar,Talasari,Khandesh,tractor,,
+Solapur,Pandharpur,WM,pickaxe,36,130
+Osmanabad,Vashi,Marathwada,sprayer,69,210
+Raigad,Pen,Konkan,plough,144,675
+Pune,Shirur,WM,tractor trolley,325,2620
+Sambhajinagar,Kannad,Marathwada,sprayer,46,145
+Dhule,Shirpur,Khandesh,tractor trolley,188,1494
+Jalgaon,Pachora,Khandesh,tractor trolley,150,1550
+Osmanabad,Tuljapur,Marathwada,pickaxe,41,153
+Beed,Ashti,Marathwada,tractor,380,2800
+Kolhapur,Panhala,WM,plough,198,942
+Gondia,Salekasa,Vidharbha,hoe,29,232
+Beed,Shirur,Marathwada,tractor,360,2650
+Raigad,Mahad,Konkan,pickaxe,22,78
+Wardha,Arvi,Vidharbha,pickaxe,26,180
+Parbhani,Gangakhed,Marathwada,sprayer,67,200
+Raigad,Mangaon,Konkan,sickel,11.6,42
+Ahmednagar,Kopargaon,Khandesh,tractor trolley,325,2610
+Osmanabad,Vashi,Marathwada,sickel,30,105
+Palghar,Wada,Khandesh,pickaxe,,
+Gadchiroli,Dhanora,Vidharbha,tractor trolley,,
+Akola,Patur,Vidharbha,Hoe,34,270
+Buldhana,Chikhli,Vidharbha,hoe,52,400
+Beed,Shirur,Marathwada,hoe,37,205
+Sambhajinagar,Gangapur,Marathwada,sprayer,49,153
+Buldhana,Shegaon,Vidharbha,tractor,280,1960
+Pune,Shirur,WM,sprayer,75,220
+Pune,Shirur,WM,pickaxe,45,160
+Ratnagiri,Khed,Konkan,tractor trolley,210,1580
+Gondia,Amgaon,Vidharbha,plough,108,864
+Raigad,Khalapur,Konkan,tractor,408,3050
+Nandurbar,Nandurbar,Khandesh,tractor,180,880
+Nashik,Sinnar,Marathwada,tractor,354,2635
+Sangli,Atpadi,WM,sprayer,66.95,205.15
+Hingoli,Aundha,Marathwada,tractor,470,3500
+Wardha,Hinganghat,Vidharbha,tractor trolley,185,1300
+Parbhani,Purna,Marathwada,pickaxe,43,145
+Sangli,Tasgaon,WM,tractor trolley,290.23,2219.85
+Sambhajinagar,Paithan,Marathwada,hoe,34,191
+Pune,Haveli,WM,sprayer,73,217
+Nanded,Dharmabad,Marathwada,sickel,18,65
+Hingoli,Aundha,Marathwada,hoe,54,256
+Yavatmal,Yavatmal,Vidharbha,hoe,26,208
+Nagpur,Narkhed,Vidharbha,tractor,330,2640
+Solapur,Barshi,WM,tractor trolley,294,2215
+Chandrapur,Chandrapur,Vidharbha,tractor,242,1936
+Ahmednagar,Sangamner,Khandesh,hoe,56,260
+Bhandara,Tumsa,Vidharbha,pickaxe,23,184
+Jalgaon,Chalisgaon,Khandesh,sickel,15,65
+Amravati,Morshi,Vidharbha,Sprayer,45,365
+Nashik,Igatpuri,Marathwada,plough,135,630
+Gondia,Tirora,Vidharbha,pickaxe,19,152
+Bhandara,Pauni,Vidharbha,hoe,30,240
+Bhandara,Mohadi,Vidharbha,sprayer,38,304
+Sindhudurg,Devgad,Konkan,tractor trolley,190,1410
+Latur,Chakur,Marathwada,hoe,34,185
+Satara,Jaoli,WM,pickaxe,37.13,133.58
+Amravati,Morshi,Vidharbha,Pickaxe,28,224
+Sangli,Atpadi,WM,plough,187.7,889.5
+Pune,Ambegoan,WM,hoe,55,259
+Buldhana,Lonar,Vidharbha,tractor trolley,185,1450
+Nandurbar,Nawapur,Khandesh,tractor trolley,95,720
+Palghar,Talasari,Khandesh,hoe,,
+Solapur,Mangalvedha,WM,pickaxe,34.5,126
+Pune,Maval,WM,hoe,53,255
+Gondia,Gondia,Vidharbha,sprayer,40,320
+Wardha,Karanja,Vidharbha,hoe,52,360
+Jalna,Jafrabad,Marathwada,sprayer,41,130
+Latur,Udgir,Marathwada,plough,120,550
+Dhule,Dhule,Khandesh,plough,115,606
+Buldhana,Shegaon,Vidharbha,plough,125,900
+Palghar,Dahanu,Khandesh,tractor,,
+Sangli,Shirala,WM,sprayer,66.54,204.65
+Gondia,Gondia,Vidharbha,tractor,260,2080
+Solapur,Mangalvedha,WM,hoe,46,240
+Raigad,Mahad,Konkan,sickel,16,59
+Sangli,Jat,WM,sprayer,66.65,204.8
+Wardha,Samudrapur,Vidharbha,hoe,52,360
+Pune,Maval,WM,tractor,475,3500
+Nashik,Trimbak,Marathwada,plough,135,630
+Sindhudurg,Sawantwadi,Konkan,sickel,18,66
+Yavatmal,Yavatmal,Vidharbha,pickaxe,20,160
+Satara,Wai,WM,plough,187.04,887.56
+Latur,Renapur,Marathwada,tractor,360,2600
+Gadchiroli,Mulchera,Vidharbha,tractor trolley,,
+Buldhana,Lonar,Vidharbha,tractor,280,1960
+Ahmednagar,Kopargaon,Khandesh,sprayer,73,217
+Ahmednagar,Parner,Khandesh,hoe,54,257
+Solapur,Akkalkot,WM,sickel,26.8,95
+Jalna,Jafrabad,Marathwada,hoe,30,170
+Gadchiroli,Mulchera,Vidharbha,tractor,,
+Gondia,Amgaon,Vidharbha,tractor trolley,145,1160
+Nandurbar,Taloda,Khandesh,sprayer,28,105
+Nandurbar,Nandurbar,Khandesh,sickel,11,50
+Nashik,Trimbak,Marathwada,tractor trolley,219,1625
+Jalna,Partur,Marathwada,hoe,27,155
+Bhandara,Tumsa,Vidharbha,hoe,30,240
+Parbhani,Sonpeth,Marathwada,sickel,27,90
+Hingoli,kalamnuri,Marathwada,pickaxe,40,150
+Pune,Bhor,WM,plough,202,1055
+Latur,Ausa,Marathwada,plough,125,590
+Kolhapur,Radhanagari,WM,sprayer,69.5,210
+Beed,Ambejogai,Marathwada,plough,120,570
+Gondia,Tirora,Vidharbha,sprayer,37,296
+Sindhudurg,Malvan,Konkan,hoe,31,169
+Parbhani,Sonpeth,Marathwada,sprayer,66,195
+Jalgaon,Amalner,Khandesh,sprayer,38,130
+Solapur,Mangalvedha,WM,plough,182,830
+Akola,Akola,Vidharbha,Pickaxe,28,220
+Nanded,Nanded,Marathwada,pickaxe,25,90
+Chandrapur,Bramhpuri,Vidharbha,tractor trolley,115,920
+Pune,Bhor,WM,tractor,480,5400
+Parbhani,Sonpeth,Marathwada,pickaxe,42,140
+Sindhudurg,Malvan,Konkan,plough,118,550
+Pune,Khed,WM,plough,200,1045
+Bhandara,Mohadi,Vidharbha,sickel,14,112
+Nanded,Kandhar,Marathwada,plough,115,520
+Bhandara,Lakhandur,Vidharbha,tractor trolley,149,1192
+Nashik,Trimbak,Marathwada,sickel,21,76
+Amravati,Morshi,Vidharbha,Tractor,295,2200
+Amravati,Chandur,Vidharbha,Sprayer,47,375
+Sindhudurg,Malvan,Konkan,sprayer,42,130
+Wardha,Karanja,Vidharbha,pickaxe,26,180
+Sangli,Atpadi,WM,hoe,49.9,257.5
+Latur,Renapur,Marathwada,plough,135,620
+Amravati,Achalpur,Vidharbha,Pickaxe,27,216
+Gadchiroli,Dhanora,Vidharbha,sprayer,,
+Osmanabad,Paranda,Marathwada,tractor trolley,315,2600
+Raigad,Mahad,Konkan,tractor trolley,175,1320
+Gondia,Amgaon,Vidharbha,sprayer,38,304
+Dhule,Dhule,Khandesh,tractor,275,2020
+Nandurbar,Akrani,Khandesh,hoe,20,80
+Hingoli,kalamnuri,Marathwada,tractor trolley,310,2580
+Sambhajinagar,Kannad,Marathwada,sickel,20,75
+Nandurbar,Akrani,Khandesh,tractor trolley,95,720
+Wardha,Karanja,Vidharbha,tractor,280,1960
+Gadchiroli,Chamorshi,Vidharbha,sickel,,
+Gadchiroli,Gadchiroli,Vidharbha,pickaxe,,
+Bhandara,Lakhandur,Vidharbha,sprayer,37,296
+Gadchiroli,Gadchiroli,Vidharbha,sprayer,,
+Amravati,Warud,Vidharbha,Sickel,27,216
+Amravati,Chandur,Vidharbha,Pickaxe,29,230
+Jalna,Jafrabad,Marathwada,plough,110,500
+Sambhajinagar,Paithan,Marathwada,sprayer,47,148
+Sindhudurg,Devgad,Konkan,sickel,18,66
+Wardha,Samudrapur,Vidharbha,sprayer,72,500
+Hingoli,Hingoli,Marathwada,sickel,31,106
+Osmanabad,Umarga,Marathwada,plough,200,1050
+Pune,Ambegoan,WM,sickel,33,110
+Sambhajinagar,Sillod,Marathwada,plough,136,632
+Ahmednagar,Kopargaon,Khandesh,plough,210,1070
+Sangli,Miraj,WM,hoe,49.75,257.25
+Gadchiroli,Dhanora,Vidharbha,pickaxe,,
+Raigad,Alibaug,Konkan,tractor,332,2470
+Wardha,Samudrapur,Vidharbha,tractor,280,1960
+Nashik,Malegaon,Marathwada,sickel,21,76
+Nagpur,Narkhed,Vidharbha,tractor trolley,185,1480
+Buldhana,Malkapur,Vidharbha,pickaxe,26,200
+Bhandara,Tumsa,Vidharbha,tractor,258,2064
+Gondia,Tirora,Vidharbha,tractor,250,2000
+Hingoli,Aundha,Marathwada,tractor trolley,315,2590
+Kolhapur,Radhanagari,WM,plough,195,930
+Sindhudurg,Devgad,Konkan,tractor,310,2300
+Parbhani,Jintur,Marathwada,sickel,29,100
+Nagpur,Katol,Vidharbha,tractor,340,2720
+Hingoli,Sengaon,Marathwada,plough,196,1010
+Wardha,Karanja,Vidharbha,plough,125,875
+Jalgaon,Pachora,Khandesh,sickel,14,65
+Nagpur,Ramtek,Vidharbha,pickaxe,32,256
+Dhule,Shirpur,Khandesh,tractor,286,2100
+Washim,Malegaon,Vidharbha,sprayer,40,320
+Parbhani,Jintur,Marathwada,hoe,52,250
+Amravati,Morshi,Vidharbha,Plough,120,900
+Osmanabad,Tuljapur,Marathwada,sickel,31,106
+Nagpur,Nagpur,Vidharbha,tractor,350,2800
+Yavatmal,Umarkhed,Vidharbha,hoe,25,200
+Sambhajinagar,Gangapur,Marathwada,tractor,362,2695
+Sambhajinagar,Kannad,Marathwada,hoe,33,187
+Satara,Satara,WM,pickaxe,36.69,132.65
+Amravati,Achalpur,Vidharbha,Sickel,24,192
+Kolhapur,Panhala,WM,tractor trolley,313,2350
+Sangli,Atpadi,WM,sickel,28.7,103
+Beed,Ashti,Marathwada,pickaxe,30,110
+Jalna,Mantha,Marathwada,sprayer,39,125
+Latur,Renapur,Marathwada,tractor trolley,230,1700
+Pune,Shirur,WM,tractor,541.6,6500
+Buldhana,Lonar,Vidharbha,plough,125,940
+Beed,Shirur,Marathwada,sprayer,50,155
+Raigad,Pen,Konkan,sickel,21.8,80
+Bhandara,Pauni,Vidharbha,sprayer,38,304
+Dhule,Sindhkheda,Khandesh,plough,104,545
+Parbhani,Jintur,Marathwada,plough,195,1020
+Nanded,Nanded,Marathwada,plough,130,600
+Pune,Indapur,WM,sickel,33,109
+Satara,Karad,WM,tractor trolley,291.86,2225.83
+Ahmednagar,Parner,Khandesh,tractor trolley,320,2600
+Washim,Washim,Vidharbha,tractor,270,2160
+Amravati,Chandur,Vidharbha,Tractor,300,2250
+Chandrapur,Chandrapur,Vidharbha,tractor trolley,138,1104
+Raigad,Pen,Konkan,sprayer,52,160
+Kolhapur,Gadhinglaj,WM,hoe,51.5,278
+Satara,Jaoli,WM,plough,187.53,888.42
+Akola,Patur,Vidharbha,Tractor Trolley,190,1450
+Wardha,Wardha,Vidharbha,tractor,280,1960
+Osmanabad,Bhoom,Marathwada,sickel,29,100
+Raigad,Pen,Konkan,tractor trolley,230,1730
+Pune,Baramati,WM,tractor trolley,330,2700
+Parbhani,Parbhani,Marathwada,pickaxe,44,150
+Nanded,Loha,Marathwada,sickel,20,75
+Gadchiroli,Dhanora,Vidharbha,plough,,
+Wardha,Wardha,Vidharbha,sickel,32,230
+Jalgaon,Bhusawal,Khandesh,tractor,275,2050
+Sambhajinagar,Gangapur,Marathwada,pickaxe,27,96
+Nanded,Loha,Marathwada,tractor,340,2400
+Latur,Latur,Marathwada,tractor trolley,240,1800
+Buldhana,Lonar,Vidharbha,sickel,32,260
+Pune,Haveli,WM,tractor,490,5500
+Parbhani,Gangakhed,Marathwada,sickel,28,95
+Pune,Haveli,WM,plough,205,1060
+Ratnagiri,Chiplun,Konkan,sprayer,42,130
+Gondia,Amgaon,Vidharbha,hoe,28,224
+Washim,Karanja,Vidharbha,hoe,27,216
+Bhandara,Tumsa,Vidharbha,sickel,15,120
+Nandurbar,Shahada,Khandesh,plough,75,620
+Latur,Chakur,Marathwada,sickel,20,75
+Ahmednagar,Pathardi,Khandesh,plough,210,1070
+Dhule,Shirpur,Khandesh,plough,119,630
+Sambhajinagar,Gangapur,Marathwada,hoe,36,199
+Akola,Akot,Vidharbha,Pickaxe,26,210
+Parbhani,Sonpeth,Marathwada,tractor,450,3300
+Jalgaon,Jalgaon,Khandesh,plough,120,620
+Hingoli,kalamnuri,Marathwada,hoe,53,254
+Sangli,Atpadi,WM,pickaxe,36.85,132.25
+Gondia,Salekasa,Vidharbha,plough,109,872
+Pune,Indapur,WM,tractor trolley,320,2630
+Nandurbar,Nawapur,Khandesh,sickel,11,50
+Sangli,Atpadi,WM,tractor trolley,291.03,2220.45
+Akola,Akola,Vidharbha,Sprayer,50,400
+Washim,Washim,Vidharbha,hoe,32,256
+Beed,Patoda,Marathwada,tractor trolley,220,1600
+Osmanabad,Vashi,Marathwada,plough,198,1040
+Ahmednagar,Pathardi,Khandesh,tractor,495,3650
+Wardha,Hinganghat,Vidharbha,plough,125,875
+Raigad,Khalapur,Konkan,hoe,40,220
+Chandrapur,Chandrapur,Vidharbha,pickaxe,21,168
+Washim,Karanja,Vidharbha,pickaxe,18,144
+Solapur,Karmala,WM,sprayer,64,190
+Akola,Patur,Vidharbha,Plough,150,1125
+Ahmednagar,Kopargaon,Khandesh,hoe,55,258
+Sangli,Miraj,WM,sprayer,66.8,205
+Ratnagiri,Chiplun,Konkan,plough,118,550
+Jalna,Jafrabad,Marathwada,tractor,320,2300
+Hingoli,Sengaon,Marathwada,tractor trolley,295,2450
+Buldhana,Buldhana,Vidharbha,sickel,32,230
+Jalgaon,Chalisgaon,Khandesh,plough,112,620
+Wardha,Samudrapur,Vidharbha,plough,125,875
+Sindhudurg,Sawantwadi,Konkan,plough,118,550
+Sindhudurg,Devgad,Konkan,pickaxe,23,82
+Yavatmal,Yavatmal,Vidharbha,plough,99,743
+Sangli,Jat,WM,hoe,49.5,257
+Akola,Balapur,Vidharbha,Plough,145,1100
+Ahmednagar,Parner,Khandesh,plough,205,1065
+Latur,Udgir,Marathwada,hoe,36,195
+Nanded,Nanded,Marathwada,sprayer,48,150
+Nanded,Naigaon,Marathwada,plough,125,570
+Pune,Baramati,WM,plough,210,1100
+Pune,Bhor,WM,pickaxe,41,153
+Ahmednagar,Sangamner,Khandesh,pickaxe,45,160
+Nandurbar,Taloda,Khandesh,tractor,185,920
+Latur,Latur,Marathwada,pickaxe,28,100
+Beed,Parali,Marathwada,tractor trolley,210,1550
+Amravati,Chikhaldara,Vidharbha,Sickel,25,200
+Palghar,Dahanu,Khandesh,sprayer,,
+Gondia,Gondia,Vidharbha,tractor trolley,150,1200
+Sambhajinagar,Sillod,Marathwada,tractor trolley,221,1630
+Yavatmal,Kalamb,Vidharbha,pickaxe,22,165
+Chandrapur,Rajura,Vidharbha,tractor,238,1904
+Buldhana,Malkapur,Vidharbha,sickel,32,250
+Pune,Haveli,WM,tractor trolley,315,2590
+Jalna,Badnapur,Marathwada,pickaxe,22,78
+Amravati,Chikhaldara,Vidharbha,Plough,135,1010
+Satara,Satara,WM,plough,186.03,885.93
+Nanded,Dharmabad,Marathwada,hoe,33,175
+Wardha,Wardha,Vidharbha,sprayer,72,500
+Nanded,Loha,Marathwada,tractor trolley,200,1450
+Nashik,Igatpuri,Marathwada,sprayer,48,149
+Bhandara,Lakhandur,Vidharbha,plough,111,888
+Yavatmal,Maregaon,Vidharbha,pickaxe,21,160
+Parbhani,Purna,Marathwada,hoe,51,245
+Wardha,Karanja,Vidharbha,sickel,32,230
+Kolhapur,Kagal,WM,pickaxe,37.8,140.5
+Wardha,Hinganghat,Vidharbha,hoe,52,360
+Akola,Balapur,Vidharbha,Sprayer,52,420
+Nagpur,Hingna,Vidharbha,hoe,41,328
+Buldhana,Buldhana,Vidharbha,pickaxe,26,180
+Sindhudurg,Kankavli,Konkan,pickaxe,23,82
+Kolhapur,Radhanagari,WM,tractor trolley,309,2330
+Jalna,Partur,Marathwada,sickel,17,58
+Satara,Karad,WM,pickaxe,36.83,132.94
+Solapur,Akkalkot,WM,tractor,448,3340
+Satara,Phaltan,WM,hoe,49.98,258.94
+Nashik,Yeola,Marathwada,sickel,21,76
+Yavatmal,Maregaon,Vidharbha,tractor,250,1875
+Pune,Junnar,WM,plough,205,1060
+Ratnagiri,Dapoli,Konkan,pickaxe,28,100
+Sambhajinagar,Paithan,Marathwada,plough,133,618
+Bhandara,Lakhandur,Vidharbha,pickaxe,23,184
+Buldhana,Buldhana,Vidharbha,tractor,280,1960
+Yavatmal,Umarkhed,Vidharbha,plough,95,700
+Satara,Satara,WM,sprayer,66.44,204.9
+Wardha,Arvi,Vidharbha,tractor trolley,185,1300
+Parbhani,Sonpeth,Marathwada,hoe,50,240
+Beed,Patoda,Marathwada,hoe,36,200
+Parbhani,Parbhani,Marathwada,plough,195,1020
+Amravati,Warud,Vidharbha,Tractor Trolley,190,1425
+Hingoli,Hingoli,Marathwada,plough,200,1050
+Dhule,Sakri,Khandesh,tractor,264,1940
+Dhule,Dhule,Khandesh,pickaxe,26,92
+Wardha,Wardha,Vidharbha,tractor trolley,185,1300
+Chandrapur,Bramhpuri,Vidharbha,pickaxe,14,112
+Osmanabad,Paranda,Marathwada,tractor,470,3500
+Wardha,Hinganghat,Vidharbha,pickaxe,26,180
+Chandrapur,Korpana,Vidharbha,tractor trolley,121,968
+Palghar,Dahanu,Khandesh,sickel,,
+Kolhapur,Shahuwadi,WM,hoe,51,276
+Pune,Khed,WM,hoe,52,254
+Palghar,Dahanu,Khandesh,plough,,
+Satara,Jaoli,WM,tractor trolley,293.18,2241.19
+Raigad,Mahad,Konkan,sprayer,38,115
+Ratnagiri,Dapoli,Konkan,hoe,37,200
+Pune,Khed,WM,tractor trolley,310,2580
+Buldhana,Chikhli,Vidharbha,tractor,280,1960
+Yavatmal,Kalamb,Vidharbha,tractor,220,1650
+Solapur,Pandharpur,WM,plough,186,870
+Ratnagiri,Chiplun,Konkan,sprayer,42,130
+Nagpur,Katol,Vidharbha,plough,145,1160
+Washim,Malegaon,Vidharbha,pickaxe,20,160
+Akola,Patur,Vidharbha,Sickel,21,170
+Ratnagiri,Chiplun,Konkan,tractor trolley,190,1410
+Yavatmal,Dharwa,Vidharbha,tractor,245,1830
+Parbhani,Jintur,Marathwada,sprayer,68,205
+Gondia,Tirora,Vidharbha,plough,105,840
+Sangli,Miraj,WM,tractor trolley,290.83,2220.3
+Dhule,Sindhkheda,Khandesh,pickaxe,23,83
+Hingoli,Basmath,Marathwada,sickel,29,100
+Sangli,Shirala,WM,pickaxe,36.52,132.1
+Mumbai Suburban,Mumbai Suburban,Konkan,sprayer,84,255
+Jalna,Badnapur,Marathwada,plough,105,490
+Nashik,Malegaon,Marathwada,pickaxe,27,94
+Osmanabad,Umarga,Marathwada,hoe,54,256
+Osmanabad,Tuljapur,Marathwada,tractor trolley,315,2590
+Palghar,Palghar,Khandesh,tractor,,
+Latur,Udgir,Marathwada,sprayer,48,150
+Jalgaon,Pachora,Khandesh,hoe,27,155
+Nagpur,Katol,Vidharbha,sickel,21,168
+Parbhani,Parbhani,Marathwada,sprayer,68,205
+Yavatmal,Umarkhed,Vidharbha,pickaxe,23,170
+Yavatmal,Maregaon,Vidharbha,sickel,14,105
+Dhule,Shirpur,Khandesh,pickaxe,27,95
+Ratnagiri,Chiplun,Konkan,plough,118,550
+Nagpur,Katol,Vidharbha,pickaxe,29,232
+Sangli,Miraj,WM,tractor,444,3440
+Solapur,Pandharpur,WM,hoe,48,260
+Hingoli,kalamnuri,Marathwada,tractor,465,3450
+Raigad,Alibaug,Konkan,plough,126,590
+Sangli,Jat,WM,tractor,442,3430
+Parbhani,Gangakhed,Marathwada,tractor,455,3350
+Jalgaon,Amalner,Khandesh,tractor trolley,155,1550
+Sindhudurg,Kudal,Konkan,sprayer,42,130
+Yavatmal,Kalamb,Vidharbha,plough,95,720
+Kolhapur,Panhala,WM,sickel,30,111
+Pune,Maval,WM,tractor trolley,312,2591
+Ratnagiri,Chiplun,Konkan,pickaxe,23,82
+Osmanabad,Vashi,Marathwada,hoe,53,254
+Parbhani,Purna,Marathwada,sprayer,67,200
+Ahmednagar,Shrigonda,Khandesh,tractor,485,3600
+Kolhapur,Shahuwadi,WM,plough,196,934
+Beed,Parali,Marathwada,sickel,20,75
+Washim,Manora,Vidharbha,tractor trolley,120,960
+Gondia,Salekasa,Vidharbha,tractor,258,2064
+Palghar,Vikramgad,Khandesh,hoe,,
+Mumbai Suburban,Mumbai Suburban,Konkan,pickaxe,46,165
+Hingoli,Sengaon,Marathwada,sprayer,67,205
+Jalgaon,Bhusawal,Khandesh,sickel,16,65
+Dhule,Sindhkheda,Khandesh,sprayer,37,110
+Nandurbar,Nawapur,Khandesh,sprayer,28,105
+Washim,Washim,Vidharbha,tractor trolley,160,1280
+Palghar,Talasari,Khandesh,sprayer,,
+Jalna,Partur,Marathwada,plough,95,440
+Hingoli,Hingoli,Marathwada,pickaxe,41,153
+Hingoli,Basmath,Marathwada,tractor,460,3400
+Parbhani,Parbhani,Marathwada,tractor,460,3400
+Latur,Udgir,Marathwada,pickaxe,25,90
+Sambhajinagar,Sillod,Marathwada,sprayer,48,151
+Ratnagiri,Dapoli,Konkan,sprayer,50,155
+Washim,Manora,Vidharbha,hoe,25,200
+Nashik,Malegaon,Marathwada,tractor trolley,219,1625
+Gadchiroli,Chamorshi,Vidharbha,tractor trolley,,
+Jalgaon,Chalisgaon,Khandesh,sprayer,36,130
+Kolhapur,Shahuwadi,WM,sickel,29.8,110.5
+Ratnagiri,Khed,Konkan,sprayer,47,145
+Kolhapur,Kagal,WM,tractor,483,3665
+Ratnagiri,Chiplun,Konkan,sickel,18,66
+Nandurbar,Nandurbar,Khandesh,plough,75,620
+Sambhajinagar,Sambhajinagar,Marathwada,hoe,37,204
+Buldhana,Malkapur,Vidharbha,plough,125,920
+Washim,Washim,Vidharbha,pickaxe,22,176
+Chandrapur,Korpana,Vidharbha,hoe,24,192
+Beed,Shirur,Marathwada,plough,140,650
+Palghar,Talasari,Khandesh,pickaxe,,
+Buldhana,Buldhana,Vidharbha,plough,125,875
+Ratnagiri,Khed,Konkan,tractor,355,2630
+Parbhani,Gangakhed,Marathwada,plough,190,1000
+Gondia,Tirora,Vidharbha,sickel,14,112
+Nagpur,Nagpur,Vidharbha,sprayer,50,400
+Bhandara,Pauni,Vidharbha,tractor,260,2080
+Mumbai Suburban,Mumbai Suburban,Konkan,tractor trolley,374,2825
+Sindhudurg,Malvan,Konkan,sickel,18,66
+Kolhapur,Radhanagari,WM,tractor,484,3670
+Sambhajinagar,Sambhajinagar,Marathwada,tractor trolley,230,1700
+Pune,Bhor,WM,sprayer,72,216
+Nandurbar,Taloda,Khandesh,pickaxe,15,65
+Ahmednagar,Kopargaon,Khandesh,sickel,32,107
+Nanded,Loha,Marathwada,plough,120,550
+Beed,Patoda,Marathwada,pickaxe,27,95
+Gondia,Amgaon,Vidharbha,pickaxe,20,160
+Ahmednagar,Parner,Khandesh,sprayer,72,216
+Wardha,Samudrapur,Vidharbha,pickaxe,26,180
+Sindhudurg,Kudal,Konkan,plough,118,550
+Washim,Resod,Vidharbha,sprayer,35,280
+Wardha,Samudrapur,Vidharbha,tractor trolley,185,1300
+Ahmednagar,Kopargaon,Khandesh,tractor,490,3650
+Akola,Telhara,Vidharbha,Sickel,23,180
+Kolhapur,Gadhinglaj,WM,tractor trolley,312,2345
+Nandurbar,Nandurbar,Khandesh,pickaxe,14,60
+Satara,Karad,WM,tractor,431.06,3402.39
+Jalgaon,Pachora,Khandesh,pickaxe,20,100
+Wardha,Karanja,Vidharbha,tractor trolley,185,1300
+Ratnagiri,Chiplun,Konkan,hoe,31,169
+Pune,Baramati,WM,sprayer,75,225
+Nanded,Dharmabad,Marathwada,sprayer,42,130
+Kolhapur,Gadhinglaj,WM,plough,197,938
+Pune,Baramati,WM,pickaxe,40,130
+Raigad,Alibaug,Konkan,sprayer,45,140
+Raigad,Alibaug,Konkan,tractor trolley,200,1510
+Beed,Patoda,Marathwada,sickel,21,78
+Osmanabad,Paranda,Marathwada,sprayer,70,215
+Nashik,Trimbak,Marathwada,sprayer,48,149
+Kolhapur,Radhanagari,WM,pickaxe,38,141
+Beed,Ashti,Marathwada,sickel,23,82
+Jalgaon,Bhusawal,Khandesh,tractor trolley,155,1550
+Parbhani,Purna,Marathwada,tractor,455,3350
+Osmanabad,Tuljapur,Marathwada,plough,200,1050
+Ahmednagar,Parner,Khandesh,sickel,31,106
+Pune,Khed,WM,pickaxe,40,152
+Solapur,Karmala,WM,hoe,47,250
+Ahmednagar,Parner,Khandesh,tractor,485,3600
+Osmanabad,Vashi,Marathwada,tractor trolley,310,2580
+Osmanabad,Vashi,Marathwada,pickaxe,41,150
+Washim,Karanja,Vidharbha,sickel,13,104
+Sambhajinagar,Sillod,Marathwada,sickel,21,77
+Akola,Akot,Vidharbha,Sprayer,51,405
+Beed,Ambejogai,Marathwada,tractor trolley,200,1500
+Washim,Karanja,Vidharbha,tractor trolley,130,1040
+Jalna,Bhokardhan,Marathwada,plough,115,540
+Nandurbar,Taloda,Khandesh,sickel,12,45
+Satara,Karad,WM,hoe,49.3,256.73
+Washim,Washim,Vidharbha,sickel,16,128
+Chandrapur,Bramhpuri,Vidharbha,sprayer,28,224
+Beed,Ambejogai,Marathwada,pickaxe,25,85
+Wardha,Samudrapur,Vidharbha,sickel,32,230
+Parbhani,Jintur,Marathwada,tractor trolley,300,2500
+Hingoli,kalamnuri,Marathwada,sickel,30,104
+Palghar,Dahanu,Khandesh,tractor trolley,,
+Sangli,Tasgaon,WM,hoe,49.1,256.35
+Kolhapur,Panhala,WM,tractor,487.5,3685
+Jalgaon,Chalisgaon,Khandesh,hoe,28,155
+Nashik,Igatpuri,Marathwada,tractor,354,2635
+Solapur,Barshi,WM,pickaxe,35.8,129
+Chandrapur,Sindhewahi,Vidharbha,hoe,26,208
+Nagpur,Nagpur,Vidharbha,pickaxe,30,240
+Yavatmal,Dharwa,Vidharbha,pickaxe,25,180
+Nashik,Trimbak,Marathwada,hoe,35,194
+Latur,Chakur,Marathwada,sprayer,42,130
+Buldhana,Chikhli,Vidharbha,sickel,32,270
+Sambhajinagar,Kannad,Marathwada,tractor,336,2505
+Osmanabad,Paranda,Marathwada,sickel,30,105
+Jalna,Mantha,Marathwada,tractor,300,2150
+Jalna,Bhokardhan,Marathwada,sickel,18,65
+Ratnagiri,Khed,Konkan,pickaxe,26,94
+Jalna,Badnapur,Marathwada,tractor trolley,185,1350
+Nandurbar,Shahada,Khandesh,pickaxe,16,70
+Palghar,Wada,Khandesh,sickel,,
+Pune,Khed,WM,sickel,30,105
+Solapur,Pandharpur,WM,tractor,455,3380
+Parbhani,Gangakhed,Marathwada,pickaxe,43,145
+Sindhudurg,Sawantwadi,Konkan,pickaxe,23,82
+Palghar,Palghar,Khandesh,sickel,,
+Pune,Junnar,WM,tractor trolley,315,2600
+Nanded,Nanded,Marathwada,tractor trolley,220,1600
+Bhandara,Mohadi,Vidharbha,pickaxe,21,168
+Gondia,Amgaon,Vidharbha,sickel,14,112
+Amravati,Warud,Vidharbha,Plough,130,975
+Ahmednagar,Parner,Khandesh,pickaxe,43,155
+Hingoli,kalamnuri,Marathwada,plough,198,1040
+Akola,Balapur,Vidharbha,Hoe,37,295
+Gadchiroli,Mulchera,Vidharbha,sickel,,
+Satara,Wai,WM,hoe,49.53,257.53
+Nagpur,Katol,Vidharbha,sprayer,48,384
+Latur,Ausa,Marathwada,hoe,37,200
+Ratnagiri,Guhagar,Konkan,plough,126,590
+Akola,Telhara,Vidharbha,Sprayer,48,385
+Nagpur,Narkhed,Vidharbha,sickel,20,160
+Satara,Wai,WM,sprayer,66.85,205.47
+Yavatmal,Maregaon,Vidharbha,sprayer,36,275
+Satara,Jaoli,WM,sprayer,67.03,205.7
+Nagpur,Hingna,Vidharbha,sprayer,52,416
+Ahmednagar,Shrigonda,Khandesh,sprayer,72,216
+Gondia,Tirora,Vidharbha,tractor trolley,140,1120
+Akola,Akola,Vidharbha,Tractor,310,2300
+Osmanabad,Umarga,Marathwada,sprayer,70,214
+Washim,Karanja,Vidharbha,sprayer,30,240
+Osmanabad,Bhoom,Marathwada,sprayer,68,200
+Gondia,Salekasa,Vidharbha,tractor trolley,144,1152
+Dhule,Dhule,Khandesh,hoe,31,148
+Wardha,Arvi,Vidharbha,plough,125,875
+Sambhajinagar,Sambhajinagar,Marathwada,sprayer,50,156
+Nashik,Sinnar,Marathwada,sickel,21,76
+Ahmednagar,Pathardi,Khandesh,sprayer,73,217
+District,Taluka,Region,Equipment,Rs/hr,Rs/day
+Jalna,Mantha,Marathwada,sickel,17,60
+Sindhudurg,Kankavli,Konkan,sickel,18,66
+Latur,Renapur,Marathwada,sprayer,50,155
+Nanded,Nanded,Marathwada,tractor,360,2600
+Beed,Ambejogai,Marathwada,sickel,19,70
+Sangli,Tasgaon,WM,plough,186.71,887.75
+Washim,Resod,Vidharbha,sickel,14,112
+Nanded,Kandhar,Marathwada,pickaxe,22,78
+Nanded,Naigaon,Marathwada,pickaxe,24,85
+Yavatmal,Umarkhed,Vidharbha,sprayer,32,250
+Beed,Ashti,Marathwada,tractor trolley,235,1750
+Wardha,Arvi,Vidharbha,sickel,32,230
+Pune,Junnar,WM,hoe,54,257
+Gondia,Gondia,Vidharbha,plough,110,880
+Akola,Telhara,Vidharbha,Tractor Trolley,175,1300
+Nandurbar,Nandurbar,Khandesh,sprayer,28,105
+Nashik,Trimbak,Marathwada,tractor,354,2635
+Nagpur,Ramtek,Vidharbha,plough,160,1280
+Bhandara,Bhandara,Vidharbha,sickel,16,128
+Jalna,Jafrabad,Marathwada,tractor trolley,190,1400
+Hingoli,Hingoli,Marathwada,hoe,54,256
+Sindhudurg,Kudal,Konkan,tractor,310,2300
+Osmanabad,Bhoom,Marathwada,pickaxe,40,145
+Satara,Phaltan,WM,tractor,438.76,3456.9
+Pune,Ambegoan,WM,plough,208,1070
+Parbhani,Gangakhed,Marathwada,hoe,51,245
+Sindhudurg,Devgad,Konkan,plough,118,550
+Sambhajinagar,Gangapur,Marathwada,tractor trolley,224,1655
+Sangli,Atpadi,WM,tractor,446,3450
+Satara,Satara,WM,tractor,428.55,3377.45
+Latur,Latur,Marathwada,hoe,39,210
+Satara,Jaoli,WM,hoe,49.76,258.19
+Bhandara,Tumsa,Vidharbha,tractor trolley,150,1200
+Beed,Shirur,Marathwada,sickel,22,80
+Nashik,Malegaon,Marathwada,plough,135,630
+Sindhudurg,Devgad,Konkan,hoe,31,169
+Amravati,Warud,Vidharbha,Hoe,35,280
+Palghar,Palghar,Khandesh,plough,,
+Nagpur,Nagpur,Vidharbha,hoe,40,320
+Dhule,Sakri,Khandesh,hoe,30,142
+Latur,Ausa,Marathwada,tractor,350,2500
+Palghar,Vikramgad,Khandesh,sickel,,
+Washim,Manora,Vidharbha,pickaxe,17,136
+Sindhudurg,Devgad,Konkan,sprayer,42,130
+Akola,Telhara,Vidharbha,Tractor,315,2325
+Nashik,Yeola,Marathwada,sprayer,48,149
+Nagpur,Hingna,Vidharbha,tractor trolley,210,1680
+Jalgaon,Chalisgaon,Khandesh,tractor,270,2050
+Pune,Baramati,WM,tractor,500,3700
+Beed,Ambejogai,Marathwada,hoe,33,180
+Gondia,Gondia,Vidharbha,hoe,30,240
+Jalgaon,Jalgaon,Khandesh,sprayer,40,130
+Ratnagiri,Khed,Konkan,sickel,20.5,76
+Sambhajinagar,Sambhajinagar,Marathwada,tractor,373,2775
+Parbhani,Parbhani,Marathwada,tractor trolley,300,2500
+Kolhapur,Shahuwadi,WM,tractor trolley,310,2335
+Gadchiroli,Gadchiroli,Vidharbha,plough,,
+Kolhapur,Shahuwadi,WM,tractor,485,3675
+Wardha,Karanja,Vidharbha,sprayer,72,500
+Sambhajinagar,Sambhajinagar,Marathwada,sickel,22,80
+Osmanabad,Tuljapur,Marathwada,tractor,470,3500
+Sindhudurg,Malvan,Konkan,tractor,310,2300
+Gadchiroli,Mulchera,Vidharbha,hoe,,
+Nashik,Yeola,Marathwada,tractor,354,2635
+Sangli,Jat,WM,tractor trolley,290.63,2220.15
+Raigad,Khalapur,Konkan,plough,155,725
+Latur,Chakur,Marathwada,tractor trolley,195,1400
+Ahmednagar,Sangamner,Khandesh,tractor,500,3700
+Pune,Haveli,WM,hoe,54,257
+Buldhana,Lonar,Vidharbha,hoe,52,390
+Raigad,Mangaon,Konkan,plough,78,365
+Sindhudurg,Malvan,Konkan,pickaxe,23,82
+Chandrapur,Rajura,Vidharbha,plough,95,760
+Nanded,Naigaon,Marathwada,sickel,21,78
+Solapur,Pandharpur,WM,sickel,27.5,100
+Amravati,Achalpur,Vidharbha,Tractor,290,2175
+Washim,Resod,Vidharbha,hoe,28,224
+Ahmednagar,Sangamner,Khandesh,sickel,33,109
+Ahmednagar,Pathardi,Khandesh,pickaxe,44,157
+Dhule,Sindhkheda,Khandesh,tractor trolley,163,1335
+Ratnagiri,Khed,Konkan,hoe,35,190
+Yavatmal,Maregaon,Vidharbha,tractor trolley,140,1050
+Solapur,Karmala,WM,sickel,27,96
+Satara,Jaoli,WM,tractor,436.08,3440.78
+Pune,Indapur,WM,tractor,510,5700
+Gondia,Tirora,Vidharbha,hoe,27,216
+Nandurbar,Nawapur,Khandesh,plough,75,620
+Gadchiroli,Chamorshi,Vidharbha,sprayer,,
+Gondia,Salekasa,Vidharbha,sickel,15,120
+Jalgaon,Chalisgaon,Khandesh,pickaxe,21,100
+Buldhana,Chikhli,Vidharbha,sprayer,72,580
+Hingoli,Basmath,Marathwada,sprayer,67,205
+Latur,Renapur,Marathwada,pickaxe,27,95
+Parbhani,Gangakhed,Marathwada,tractor trolley,295,2450
+Raigad,Mangaon,Konkan,sprayer,28,85
+Nashik,Sinnar,Marathwada,plough,135,630
+Wardha,Wardha,Vidharbha,plough,125,875
+Pune,Shirur,WM,sickel,35,110
+Bhandara,Mohadi,Vidharbha,plough,110,880
+Bhandara,Pauni,Vidharbha,pickaxe,22,176
+Chandrapur,Rajura,Vidharbha,sickel,12,96
+Beed,Parali,Marathwada,pickaxe,26,90
+Sangli,Jat,WM,plough,187.16,888.5
+Yavatmal,Maregaon,Vidharbha,hoe,27,205
+Kolhapur,Gadhinglaj,WM,sickel,29.9,110.7
+Nashik,Sinnar,Marathwada,tractor trolley,219,1625
+Wardha,Arvi,Vidharbha,hoe,52,360
+Satara,Jaoli,WM,sickel,28.8,103.05
+Latur,Udgir,Marathwada,sickel,21,78
+Kolhapur,Gadhinglaj,WM,sprayer,70.5,215
+Gondia,Gondia,Vidharbha,sickel,15,120
+Ratnagiri,Dapoli,Konkan,tractor,382,2840
+Washim,Resod,Vidharbha,tractor trolley,140,1120
+Osmanabad,Umarga,Marathwada,tractor trolley,315,2590
+Solapur,Akkalkot,WM,plough,183,840
+Sindhudurg,Kankavli,Konkan,hoe,31,169
+Dhule,Sakri,Khandesh,sickel,16,58
+Osmanabad,Umarga,Marathwada,tractor,470,3500
+Osmanabad,Vashi,Marathwada,tractor,460,3400
+Raigad,Khalapur,Konkan,tractor trolley,250,1880
+Palghar,Talasari,Khandesh,sickel,,
+Palghar,Vikramgad,Khandesh,tractor trolley,,
+Sambhajinagar,Paithan,Marathwada,sickel,21,76
+Gadchiroli,Gadchiroli,Vidharbha,sickel,,
+Palghar,Palghar,Khandesh,tractor trolley,,
+Gadchiroli,Chamorshi,Vidharbha,plough,,
+Osmanabad,Tuljapur,Marathwada,hoe,54,256
+Pune,Haveli,WM,pickaxe,42,155
+Pune,Bhor,WM,hoe,53,256
+Akola,Akot,Vidharbha,Hoe,35,265
+Parbhani,Parbhani,Marathwada,sickel,29,100
+Nashik,Malegaon,Marathwada,sprayer,48,149
+Beed,Ambejogai,Marathwada,tractor,310,2300
+Pune,Bhor,WM,tractor trolley,310,2585
+Palghar,Dahanu,Khandesh,pickaxe,,
+Washim,Manora,Vidharbha,sprayer,30,240
+Sindhudurg,Kudal,Konkan,sickel,18,66
+Pune,Maval,WM,pickaxe,45,160
+Akola,Balapur,Vidharbha,Tractor,305,2250
+Ratnagiri,Chiplun,Konkan,tractor,310,2300
+Pune,Maval,WM,plough,200,1050
+Latur,Udgir,Marathwada,tractor,340,2400
+Kolhapur,Shahuwadi,WM,pickaxe,38.5,141.5
+Jalgaon,Bhusawal,Khandesh,sprayer,37,130
+Osmanabad,Bhoom,Marathwada,hoe,51,245
+Palghar,Wada,Khandesh,sprayer,,
+Osmanabad,Bhoom,Marathwada,plough,198,1040
+Palghar,Vikramgad,Khandesh,plough,,
+Akola,Telhara,Vidharbha,Hoe,38,300
+Sangli,Shirala,WM,plough,186.93,888
+Nandurbar,Nawapur,Khandesh,tractor,180,860
+Gadchiroli,Gadchiroli,Vidharbha,tractor trolley,,
+Dhule,Sakri,Khandesh,tractor trolley,174,1434
+Chandrapur,Korpana,Vidharbha,tractor,235,1880
+Yavatmal,Umarkhed,Vidharbha,tractor,240,1800
+Parbhani,Jintur,Marathwada,pickaxe,44,150
+Palghar,Vikramgad,Khandesh,tractor,,
+Gadchiroli,Gadchiroli,Vidharbha,hoe,,
+Bhandara,Bhandara,Vidharbha,plough,114,912
+Nashik,Sinnar,Marathwada,pickaxe,27,94
+Hingoli,Aundha,Marathwada,sickel,31,106
+Yavatmal,Yavatmal,Vidharbha,tractor trolley,132,1008
+Nandurbar,Shahada,Khandesh,sickel,12,45
+Jalgaon,Jalgaon,Khandesh,pickaxe,25,100
+Jalna,Mantha,Marathwada,plough,100,460
+Yavatmal,Kalamb,Vidharbha,hoe,28,210
+Kolhapur,Radhanagari,WM,sickel,29.5,110
+Sangli,Miraj,WM,pickaxe,36.72,132.2
+Raigad,Pen,Konkan,pickaxe,29,102
+Kolhapur,Kagal,WM,sickel,29.3,109.7
+Nandurbar,Akrani,Khandesh,plough,75,620
+Washim,Manora,Vidharbha,plough,80,640
+Jalgaon,Amalner,Khandesh,hoe,31,155
+Nanded,Loha,Marathwada,pickaxe,23,80
+Osmanabad,Paranda,Marathwada,plough,200,1020
+Pune,Indapur,WM,pickaxe,44,158
+Jalgaon,Pachora,Khandesh,tractor,260,2050
+Kolhapur,Gadhinglaj,WM,tractor,486,3680
+Akola,Akola,Vidharbha,Plough,140,1050
+Pune,Junnar,WM,tractor,500,5600
+Nagpur,Hingna,Vidharbha,pickaxe,31,248
+Chandrapur,Chandrapur,Vidharbha,plough,104,832
+Jalgaon,Amalner,Khandesh,plough,115,620
+Latur,Renapur,Marathwada,sickel,23,85
+Nagpur,Nagpur,Vidharbha,plough,150,1200
+Jalna,Bhokardhan,Marathwada,tractor trolley,195,1450
+Latur,Udgir,Marathwada,tractor trolley,200,1450
+Sambhajinagar,Gangapur,Marathwada,sickel,21,78
+Amravati,Warud,Vidharbha,Pickaxe,30,240
+Yavatmal,Yavatmal,Vidharbha,sickel,13,104
+Raigad,Khalapur,Konkan,sickel,23.2,85
+Sangli,Tasgaon,WM,tractor,438.71,3414.25
+Beed,Shirur,Marathwada,pickaxe,28,100
+Dhule,Dhule,Khandesh,sickel,17,60
+Solapur,Mangalvedha,WM,sickel,26.5,94
+Sindhudurg,Sawantwadi,Konkan,tractor trolley,190,1410
+Ahmednagar,Pathardi,Khandesh,tractor trolley,325,2610
+Buldhana,Chikhli,Vidharbha,tractor trolley,185,1500
+Ratnagiri,Guhagar,Konkan,hoe,33,179
+Amravati,Achalpur,Vidharbha,Sprayer,44,360
+Amravati,Chikhaldara,Vidharbha,Pickaxe,29,230
+Jalna,Jafrabad,Marathwada,pickaxe,23,80
+Palghar,Talasari,Khandesh,plough,,
+Amravati,Chandur,Vidharbha,Sickel,24,192
+Beed,Ashti,Marathwada,plough,145,670
+Nanded,Kandhar,Marathwada,sickel,19,70
+Sambhajinagar,Gangapur,Marathwada,plough,139,647
+Gondia,Amgaon,Vidharbha,tractor,255,2040
+Akola,Balapur,Vidharbha,Sickel,19,150
+Osmanabad,Paranda,Marathwada,pickaxe,41,150
+Solapur,Barshi,WM,hoe,47.5,255
+Satara,Satara,WM,hoe,49.07,255.93
+Sangli,Shirala,WM,sickel,28.35,102.25
+Jalna,Mantha,Marathwada,hoe,28,160
+Chandrapur,Rajura,Vidharbha,hoe,25,200
+Jalna,Partur,Marathwada,sprayer,38,120
+Akola,Telhara,Vidharbha,Plough,140,1050
+Nagpur,Narkhed,Vidharbha,sprayer,45,360
+Satara,Wai,WM,tractor trolley,292.47,2234.16
+Solapur,Pandharpur,WM,tractor trolley,295,2225
+Gondia,Goregaon,Vidharbha,tractor trolley,143,1144
+Parbhani,Sonpeth,Marathwada,tractor trolley,290,2400
+Beed,Parali,Marathwada,plough,125,590
+Ratnagiri,Guhagar,Konkan,sprayer,45,140
+Yavatmal,Umarkhed,Vidharbha,tractor trolley,130,975
+Pune,Ambegoan,WM,tractor trolley,320,2625
+Akola,Akola,Vidharbha,Tractor Trolley,180,1400
+Pune,Indapur,WM,hoe,56,258
+Wardha,Hinganghat,Vidharbha,sprayer,72,500
+Akola,Patur,Vidharbha,Tractor,320,2350
+Gadchiroli,Mulchera,Vidharbha,sprayer,,
+Pune,Junnar,WM,sprayer,73,218
+Akola,Akot,Vidharbha,Plough,155,1150
+Sambhajinagar,Sillod,Marathwada,tractor,353,2630
+Nandurbar,Shahada,Khandesh,tractor trolley,110,880
+Satara,Wai,WM,tractor,434.36,3425.4
+Nandurbar,Shahada,Khandesh,hoe,22,90
+Dhule,Sakri,Khandesh,plough,110,580
+Pune,Khed,WM,tractor,470,5300
+Nandurbar,Akrani,Khandesh,sickel,11,50
+Jalgaon,Jalgaon,Khandesh,tractor,280,2100
+Latur,Ausa,Marathwada,sprayer,49,150
+Ratnagiri,Dapoli,Konkan,tractor trolley,225,1690
+Chandrapur,Sindhewahi,Vidharbha,plough,98,784
+Ratnagiri,Guhagar,Konkan,tractor trolley,200,1490
+Jalgaon,Amalner,Khandesh,tractor,270,2050
+Dhule,Sindhkheda,Khandesh,sickel,15,54
+Jalgaon,Bhusawal,Khandesh,plough,115,620
+Amravati,Chandur,Vidharbha,Hoe,34,275
+Buldhana,Malkapur,Vidharbha,hoe,52,380
+Bhandara,Lakhandur,Vidharbha,sickel,15,120
+Dhule,Dhule,Khandesh,sprayer,41,123
+Parbhani,Purna,Marathwada,plough,190,1000
+Beed,Ambejogai,Marathwada,sprayer,44,140
+Amravati,Chandur,Vidharbha,Tractor Trolley,190,1425
+Sindhudurg,Malvan,Konkan,tractor trolley,190,1410
+Sindhudurg,Kudal,Konkan,pickaxe,23,82
+Amravati,Achalpur,Vidharbha,Tractor Trolley,185,1390
+Nanded,Loha,Marathwada,sprayer,45,140
+Nagpur,Hingna,Vidharbha,sickel,23,184
+Buldhana,Buldhana,Vidharbha,tractor trolley,185,1300
+Beed,Patoda,Marathwada,tractor,340,2500
+Gadchiroli,Gadchiroli,Vidharbha,tractor,,
+Buldhana,Shegaon,Vidharbha,sickel,32,240
+Pune,Maval,WM,sickel,30,104
+Gadchiroli,Mulchera,Vidharbha,pickaxe,,
+Solapur,Akkalkot,WM,tractor trolley,290,2185
+Satara,Phaltan,WM,plough,187.97,889.26
+Jalgaon,Chalisgaon,Khandesh,tractor trolley,150,1550
+Akola,Patur,Vidharbha,Pickaxe,29,225
+Chandrapur,Chandrapur,Vidharbha,hoe,28,224
+Amravati,Chikhaldara,Vidharbha,Tractor Trolley,190,1425
+Beed,Patoda,Marathwada,plough,135,620
+Gadchiroli,Dhanora,Vidharbha,sickel,,
+Nashik,Malegaon,Marathwada,tractor,354,2635
+Chandrapur,Sindhewahi,Vidharbha,sprayer,33,264
+Bhandara,Mohadi,Vidharbha,tractor,262,2096
+Palghar,Vikramgad,Khandesh,sprayer,,
+Kolhapur,Panhala,WM,pickaxe,39,143
+Osmanabad,Bhoom,Marathwada,tractor,465,3450
+Bhandara,Bhandara,Vidharbha,pickaxe,24,192
+Satara,Karad,WM,sprayer,66.66,205.23
+Jalna,Partur,Marathwada,pickaxe,20,72
+Ahmednagar,Shrigonda,Khandesh,pickaxe,43,155
+Hingoli,Sengaon,Marathwada,sickel,29,100
+Akola,Akot,Vidharbha,Tractor Trolley,195,1480
+Hingoli,Sengaon,Marathwada,pickaxe,42,145
+Washim,Malegaon,Vidharbha,sickel,15,120
+Gadchiroli,Dhanora,Vidharbha,hoe,,
+Kolhapur,Gadhinglaj,WM,pickaxe,38.7,142
+Pune,Ambegoan,WM,sprayer,74,220
+Amravati,Morshi,Vidharbha,Sickel,26,208
+Chandrapur,Korpana,Vidharbha,plough,92,736
+Palghar,Dahanu,Khandesh,hoe,,
+Solapur,Karmala,WM,tractor,450,3350
+Solapur,Akkalkot,WM,pickaxe,35,127
+Raigad,Pen,Konkan,hoe,37,200
+Latur,Latur,Marathwada,plough,140,650
+Ahmednagar,Shrigonda,Khandesh,tractor trolley,320,2600
+Solapur,Mangalvedha,WM,sprayer,62,180
+Sindhudurg,Kankavli,Konkan,tractor trolley,190,1410
+Washim,Washim,Vidharbha,sprayer,38,304
+Sindhudurg,Kankavli,Konkan,tractor,310,2300
+Latur,Chakur,Marathwada,pickaxe,22,78
+Raigad,Mangaon,Konkan,hoe,20,110
+Sangli,Shirala,WM,tractor trolley,290.43,2220
+Ratnagiri,Guhagar,Konkan,sickel,19,70
+Nandurbar,Taloda,Khandesh,plough,75,620
+Bhandara,Bhandara,Vidharbha,hoe,31,248
+Nashik,Igatpuri,Marathwada,pickaxe,27,94
+Parbhani,Jintur,Marathwada,tractor,460,3400
+Raigad,Mangaon,Konkan,tractor,204,1520
+Hingoli,Hingoli,Marathwada,tractor trolley,315,2590
+Jalna,Bhokardhan,Marathwada,hoe,31,175
+Kolhapur,Kagal,WM,hoe,50,274
+Nashik,Yeola,Marathwada,hoe,35,194
+Chandrapur,Sindhewahi,Vidharbha,pickaxe,20,160
+Bhandara,Bhandara,Vidharbha,tractor trolley,152,1216
+Chandrapur,Korpana,Vidharbha,sprayer,29,232
+Dhule,Dhule,Khandesh,tractor trolley,181,1494
+Hingoli,kalamnuri,Marathwada,sprayer,69,210
+Nanded,Kandhar,Marathwada,tractor trolley,195,1400
+Palghar,Palghar,Khandesh,pickaxe,,
+Sangli,Jat,WM,pickaxe,36.62,132.15
+Solapur,Mangalvedha,WM,tractor,445,3300
+Osmanabad,Umarga,Marathwada,sickel,31,106
+Sambhajinagar,Paithan,Marathwada,pickaxe,26,93
+Bhandara,Bhandara,Vidharbha,tractor,265,2120
+Bhandara,Lakhandur,Vidharbha,tractor,259,2072
+Bhandara,Pauni,Vidharbha,tractor trolley,150,1200
+Chandrapur,Chandrapur,Vidharbha,sickel,14,112
+Kolhapur,Panhala,WM,hoe,52,280
+Washim,Resod,Vidharbha,pickaxe,19,152
+Hingoli,Aundha,Marathwada,sprayer,70,214
+Nanded,Naigaon,Marathwada,tractor trolley,210,1500
+Raigad,Khalapur,Konkan,pickaxe,32,112
+Nashik,Sinnar,Marathwada,sprayer,48,149
+Gondia,Goregaon,Vidharbha,pickaxe,20,160
+Pune,Indapur,WM,plough,207,1065
+Buldhana,Shegaon,Vidharbha,sprayer,72,520
+Bhandara,Mohadi,Vidharbha,tractor trolley,150,1200
+Gadchiroli,Mulchera,Vidharbha,plough,,
+Kolhapur,Kagal,WM,tractor trolley,308,2325
+Washim,Karanja,Vidharbha,tractor,240,1920
+Wardha,Arvi,Vidharbha,sprayer,72,500
